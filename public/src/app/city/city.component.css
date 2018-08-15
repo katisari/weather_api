@@ -1,0 +1,14 @@
+#outer {
+    border: 1px solid black;
+}
+
+img {
+    margin: 20px;
+    display: inline-block;
+    width: 200px;
+}
+
+#desc {
+    vertical-align: bottom;
+    display: inline-block;
+}
